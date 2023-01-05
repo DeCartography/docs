@@ -9,8 +9,6 @@ pygmentsUseClasses: true
 pygmentsCodeFences: true
 disablePathToLower: true
 enableGitInfo: true
-relativeURLs: true
-canonifyurls: true
 
 markup:
   goldmark:
@@ -36,7 +34,7 @@ params:
   geekdocTOC: 3
   geekdocNextPrev: true
   geekdocMenuBundle: true
-  # geekdocLogo: "images/community-notes-icon.svg"
+  geekdocLogo: "images/community-notes-icon.svg"
   geekdocBreadcrumb: false
   geekdocSearch: false
   # geekdocRepo: "https://github.com/twitter/communitynotes"
