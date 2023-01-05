@@ -1,6 +1,6 @@
-baseURL: https://decartography.github.io/docs/
+baseurl: https://decartography.github.io/docs
 languageCode: en-us
-title: Community Notes Guide
+title: DeCartpgraphy Docs
 
 theme: "hugo-geekdoc"
 
@@ -9,6 +9,7 @@ pygmentsUseClasses: true
 pygmentsCodeFences: true
 disablePathToLower: true
 enableGitInfo: true
+relativeURLs: true
 
 markup:
   goldmark:
@@ -34,7 +35,7 @@ params:
   geekdocTOC: 3
   geekdocNextPrev: true
   geekdocMenuBundle: true
-  geekdocLogo: "images/community-notes-icon.svg"
+  # geekdocLogo: "images/community-notes-icon.svg"
   geekdocBreadcrumb: false
   geekdocSearch: false
   # geekdocRepo: "https://github.com/twitter/communitynotes"
