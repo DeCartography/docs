@@ -1,0 +1,10 @@
+---
+more:
+  - name: "View source on GitHub"
+    ref: "https://github.com/DeCartography"
+    external: true
+    icon: "github"
+  - name: "Follow @DeCartography"
+    ref: "https://twitter.com/decartography"
+    external: true
+    icon: "twitter"
