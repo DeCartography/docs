@@ -1,0 +1,31 @@
+---
+main:
+  - name: About
+    ref: 
+    sub:
+      - name: Introduction
+        ref: "/"
+      - name: Challenges
+        ref: "/Challenges"
+      - name: FAQs
+        ref: "faqs"
+
+  - name: Contributing
+    ref:
+    sub:
+      - name: Getting Started
+        ref: "gettingstarted"
+      - name: Rating Impact
+        ref: "ratingimpact"
+      - name: Diversity of perspectives
+        ref: "dp"
+
+  - name: Under the Hood
+    ref:
+    sub:
+      - name: Mapping
+        ref: "mapping"
+      - name: Mapping Code
+        ref: "mappingcode"
+      - name: Contribution Score
+        ref: "score"
