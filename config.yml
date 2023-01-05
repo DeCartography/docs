@@ -27,7 +27,7 @@
 #    tag = "tags"
 
 
-baseURL: https://decartography.github.io/docs/
+baseURL: https://decartography.github.io/
 languageCode: en-us
 title: DeCartpgraphy Docs
 
@@ -38,6 +38,7 @@ pygmentsUseClasses: true
 pygmentsCodeFences: true
 disablePathToLower: true
 enableGitInfo: true
+relativeURLs: true
 
 markup:
   goldmark:
