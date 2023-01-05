@@ -10,6 +10,7 @@ pygmentsCodeFences: true
 disablePathToLower: true
 enableGitInfo: true
 relativeURLs: true
+canonifyurls: true
 
 markup:
   goldmark:
