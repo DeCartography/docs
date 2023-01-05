@@ -27,7 +27,7 @@
 #    tag = "tags"
 
 
-baseurl: https://decartography.github.io/docs
+baseurl: https://decartography.github.io/
 languageCode: en-us
 title: DeCartpgraphy Docs
 
