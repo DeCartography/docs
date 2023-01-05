@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
 date: 2022-11-20T09:03:20-08:00
-draft: true
+draft: false
 ---
 
 [![Image from Gyazo](https://i.gyazo.com/7b759607d84ae3380dd6a50cb3fdb6c3.gif)](https://gyazo.com/7b759607d84ae3380dd6a50cb3fdb6c3)

@@ -1,7 +1,7 @@
 ---
 title: "Challenges"
 date: 2022-11-20T09:03:20-08:00
-draft: true
+draft: false
 ---
 
 We know that building a distributed oracle like DeCartography has many challenges, including withstanding various hacks, not being dominated by a simple majority, and having a skewed community of contributors (crowd workers).
