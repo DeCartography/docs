@@ -34,7 +34,7 @@ params:
   geekdocTOC: 3
   geekdocNextPrev: true
   geekdocMenuBundle: true
-  geekdocLogo: "images/DeCartography_icon.png"
+  geekdocLogo: "images/DeCartography_icon.svg"
   geekdocBreadcrumb: false
   geekdocSearch: false
   # geekdocRepo: "https://github.com/twitter/communitynotes"
