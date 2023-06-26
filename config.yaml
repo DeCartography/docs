@@ -1,6 +1,6 @@
 baseurl: https://decartography.github.io/docs/
 languageCode: en-us
-title: DeCartpgraphy Docs
+title: DeCartography Docs
 
 theme: "hugo-geekdoc"
 
