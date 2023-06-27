@@ -1,5 +1,8 @@
 ---
 more:
+  - name: "Read other article on Medium"
+    ref: "https://medium.com/decartography"
+    external: true
   - name: "View source on GitHub"
     ref: "https://github.com/DeCartography"
     external: true

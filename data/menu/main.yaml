@@ -7,25 +7,43 @@ main:
         ref: "/"
       - name: Challenges
         ref: "/Challenges"
+      - name: Use Case
+        ref: "/usecase"  
       - name: FAQs
         ref: "faqs"
 
-  - name: Contributing
+  - name: Round
     ref:
     sub:
-      - name: Getting Started
-        ref: "gettingstarted"
-      - name: Rating Impact
-        ref: "ratingimpact"
-      - name: Diversity of perspectives
-        ref: "dp"
+      - name: Round1
+        ref: "Round1"
 
-  - name: Under the Hood
+  - name: For Developer
     ref:
     sub:
-      - name: Mapping
-        ref: "mapping"
-      - name: Mapping Code
-        ref: "mappingcode"
-      - name: Contribution Score
-        ref: "score"
+      - name: How to use the oracle
+        ref: "Howtousetheoracle"
+      - name: Price / Data Volume
+        ref: "price"
+
+  - name: For Crowd-worker
+    ref:
+    sub:
+      - name: Getting Start
+        ref: "gettingstart"
+      - name: How to quantify your work
+        ref: "quantify"
+      - name: (Staking)
+        ref: "staking"
+      - name: Reward Claim
+        ref: "claim"
+
+  # - name: Under the Hood
+  #   ref:
+  #   sub:
+  #     - name: Mapping
+  #       ref: "mapping"
+  #     - name: Mapping Code
+  #       ref: "mappingcode"
+  #     - name: Contribution Score
+  #       ref: "score"
