@@ -21,6 +21,6 @@ In the future, we intend to increase the number of tasks and types of tasks by a
 
 {{< expand "Can non-Gitcoin researchers and others download and analyze the data?" "..." >}}
 No, they will not. No. Currently, we are working on this as a PoC with Gitcoin, so it is closed to the public.
-Please contact @DeCartography if you are interested in the demonstration.
+Please contact [@DeCartography](https://twitter.com/DeCartography) if you are interested in the demonstration.
 {{< /expand >}}
 

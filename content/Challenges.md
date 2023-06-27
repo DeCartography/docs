@@ -15,12 +15,12 @@ Collaborative hacks (collusion) are a significant risk to open rating systems, a
 
 Currently, the program takes multiple steps to reduce the likelihood of such manipulation.
 
-* All cloud workers will be required to sign in with Gitcoin Passport. (Beta version uses Google sign-in) This is a consolidation of multiple 1 person, 1 ID protocols, which allows the business to ensure 1 person, 1 ID.
+* All cloud workers will be required to sign in with Gitcoin Passport. This is a consolidation of multiple 1 person, 1 ID protocols, which allows the business to ensure 1 person, 1 ID.
 
 * These standards are in place to prevent the creation of large numbers of fake or disguised crowdworker accounts that could be used for fraudulent evaluations.
 
 
-* Second, DeCartography is not a majority-supported answer mechanism like many engagement-based ranking systems. Instead, it will use the [peer prediction method] (not yet implemented in the beta version)
+* Second, DeCartography is not a majority-supported answer mechanism like many engagement-based ranking systems. Instead, it will use the peer prediction method
 
 * For a person's answer to have a significant impact, people in different clusters must also agree.
 
@@ -30,4 +30,4 @@ Currently, the program takes multiple steps to reduce the likelihood of such man
 * Newer accounts with a track record of quality contributions to responses will have a higher Commonsense Score, and newer accounts that do not yet have a track record of responses will have a lower Commonsense Score; the compensation DeCartography pays for end-user work is determined according to this "commonsense"; the higher the Commonsense Score, the more likely the account will be to receive a higher score.
 
 ## Feedback? Ideas?
-We welcome your feedback on these and other risks and challenges, as well as ideas for addressing them, please contact us via DM @DeCartography.
+We welcome your feedback on these and other risks and challenges, as well as ideas for addressing them, please contact us via DM [@DeCartography](https://twitter.com/DeCartography).
