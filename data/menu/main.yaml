@@ -25,6 +25,8 @@ main:
         ref: "Howtousetheoracle"
       - name: Price / Data Volume
         ref: "price"
+      - name: Algorithms
+        ref: "algorithms"
 
   - name: For Crowd-worker
     ref:
