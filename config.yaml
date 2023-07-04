@@ -39,3 +39,14 @@ params:
   geekdocSearch: false
   # geekdocRepo: "https://github.com/twitter/communitynotes"
   # geekdocEditPath: "edit/main/content"
+
+
+defaultContentLanguage: en
+languages:
+  en:
+    title: DeCartography Docs
+    weight: 1
+  ja:
+    title: DeCartography ドキュメント
+    weight: 2
+    contentDir: content/ja

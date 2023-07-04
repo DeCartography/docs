@@ -46,6 +46,8 @@
           </svg>
         </span>
 
+        
+
         <span class="gdoc-menu-header__home">
           <a href="{{ .Root.Site.BaseURL }}" class="gdoc-header__link">
             <svg class="gdoc-icon gdoc_home">
@@ -57,12 +59,16 @@
 
         {{ partial "language" .Root }}
 
+        
+
+
 
         <span class="gdoc-menu-header__control">
           <label for="menu-header-control">
             <svg class="gdoc-icon gdoc_keyboard_arrow_right">
               <use xlink:href="#gdoc_keyboard_arrow_right"></use>
               <title>{{ i18n "button_menu_close" }}</title>
+              
             </svg>
           </label>
         </span>
