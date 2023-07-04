@@ -3,4 +3,12 @@ title: "DeCartography Round #1"
 date: 2022-11-20T09:03:20-08:00
 draft: false
 ---
-DeCartography first round will take place in fall of 2023. first will distribute 3,000$(ETH) reward contributions that contribution as crowd-worker in DeCartography & Gitcoin experiment.
+
+Due to its experimental nature, DeCartography verifies its hypotheses by cycling through experimental rounds. We plan to gradually increase the scale at regular intervals, similar to Gitcoin and Optimism's RetroPGF.
+
+[![Image from Gyazo](https://i.gyazo.com/af1942a45732119444a006522b4d3c24.png)](https://gyazo.com/af1942a45732119444a006522b4d3c24)
+
+## Round1
+
+The first round of DeCartography is scheduled to take place in the fall of 2023.
+In the first round, a total reward of $3,000 (ETH) will be distributed to the contributors who contributed as crowd-workers in the joint demonstration experiment by DeCartography and Gitcoin.

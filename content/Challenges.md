@@ -1,33 +1,29 @@
 ---
-title: "Challenges"
+title: "Experiments as DeCartography"
 date: 2022-11-20T09:03:20-08:00
 draft: false
 ---
 
-We know that building a distributed oracle like DeCartography has many challenges, including withstanding various hacks, not being dominated by a simple majority, and having a skewed community of contributors (crowd workers).
+We recognize that there are many challenges in building a decentralized oracle like DeCartography, including resilience to various hacking and manipulation, not being dominated by a simple majority, and issues such as the Crowd-worker community being biased.
 
-We have been publicly building DeCartography since Jun 24-26, 2022 and are designing it while seeking input from the broader community.
+We have been building DeCartography as an open-source project since June 24, 2022, and designing it while seeking opinions from a broader community.
 
-Here are a handful of particular challenges we are aware of as well as steps we are taking to address them:
+Below are specific challenges we recognize and steps to address them:
 
-## Prevention of tampering
-Collaborative hacks (collusion) are a significant risk to open rating systems, and in order for DeCartography's social graph to be effective, such attempts must be countered.
+Attack-vector (Sybil attacks, collusion) is a significant risk for open evaluation systems, and DeCartography's social graph must counter such attempts to be effective.
 
-Currently, the program takes multiple steps to reduce the likelihood of such manipulation.
+We are currently taking several measures to reduce the possibility of such fraudulent manipulation:
 
-* All cloud workers will be required to sign in with Gitcoin Passport. This is a consolidation of multiple 1 person, 1 ID protocols, which allows the business to ensure 1 person, 1 ID.
+- **All Crowd-workers are required to sign in with [Gitcoin Passport](https://passport.gitcoin.co/)**. This is an integration of several 1Person, 1ID protocols, which can receive the uniqueness of the Crowd-worker as a Humanity Score. This allows DeCartography to reduce the risk of Sybil attacks.
 
-* These standards are in place to prevent the creation of large numbers of fake or disguised crowdworker accounts that could be used for fraudulent evaluations.
+- DeCartography is not a mechanism that determines by majority vote support like a ranking system. Instead, it uses [peer prediction method](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1050.0379).
 
+- For a Crowd-worker's answer to have a significant impact on the data it generates, Crowd-workers thought to belong to a different community from the individual must also agree.
 
-* Second, DeCartography is not a majority-supported answer mechanism like many engagement-based ranking systems. Instead, it will use the peer prediction method
+Such bridging-based mechanisms have been shown in academic research to help capture higher quality responses and reduce the risk of a single community banding together to manipulate the oracle's results.
 
-* For a person's answer to have a significant impact, people in different clusters must also agree.
+Crowd-workers with a track record of submitting high-quality responses have a high Common Sense Score, while new Crowd-workers without response track record (haven't completed many tasks) have a low Common Sense Score.
 
-* Academic studies have shown that such bridging-based ranking can help identify healthier, higher quality content and reduce the risk of elevating biased content.
+The rewards DeCartography pays to end users for their work are determined according to this "common sense." The higher the Common Sense Score of an account, the higher the potential to receive higher rewards. For more details, please see the mechanism of reward determination.
 
-
-* Newer accounts with a track record of quality contributions to responses will have a higher Commonsense Score, and newer accounts that do not yet have a track record of responses will have a lower Commonsense Score; the compensation DeCartography pays for end-user work is determined according to this "commonsense"; the higher the Commonsense Score, the more likely the account will be to receive a higher score.
-
-## Feedback? Ideas?
-We welcome your feedback on these and other risks and challenges, as well as ideas for addressing them, please contact us via DM [@DeCartography](https://twitter.com/DeCartography).
+We welcome feedback on these risks and challenges, as well as ideas to address them.
