@@ -10,7 +10,7 @@ date: 2022-11-20T09:03:20-08:00
 draft: false
 ---
 
-[![Image from Gyazo](https://i.gyazo.com/43d3c89e9deb944d904567624dba2fd8.png)](https://gyazo.com/43d3c89e9deb944d904567624dba2fd8)
+[![Image from Gyazo](https://i.gyazo.com/93840e4485a1fd0de00f4b25ef07f95e.jpg)](https://gyazo.com/93840e4485a1fd0de00f4b25ef07f95e)
 
 1. Data Collection: First, collect the choices (three addresses) that each crowd-worker sent as a response. These choices express the options that the crowd-workers have chosen. Each worker sends their opinions in the form of three addresses.
 

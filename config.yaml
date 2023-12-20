@@ -46,7 +46,7 @@ languages:
   en:
     title: DeCartography Docs
     weight: 1
-  ja:
-    title: DeCartography ドキュメント
-    weight: 2
-    contentDir: content/ja
+  # ja:
+  #   title: DeCartography ドキュメント
+  #   weight: 2
+  #   contentDir: content/ja
